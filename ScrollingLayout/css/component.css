@@ -53,26 +53,88 @@ html, body,
 	background-attachment: fixed;
 }
 
-#fbsection1 {
+section {
+		font-size: 20px;
+}
+
+.section-content {
+	position: absolute;
+	top: 50%;
+	left : 50%;
+	transform : translateY(-50%);
+}
+
+.section-content-1 {
+	position: absolute;
+	top: 60%;
+	left : 60%;
+	transform : translateY(-50%);
+}
+
+.section-content-2 {
+	position: absolute;
+	top: 50%;
+	left : 5%;
+	transform : translateY(-50%);
+}
+
+.section-content-3 {
+	position: absolute;
+	top: 35%;
+	left : 31%;
+	transform : translateY(-50%);
+}
+
+.section-content-4 {
+	position: absolute;
+	top: 50%;
+	left : 50%;
+	transform : translateY(-50%);
+}
+
+.section-content-5 {
+	position: absolute;
+	top: 30%;
+	left : 5%;
+	transform : translateY(-50%);
+}
+
+#fbsection {
 	background-image: url(../images/1.jpg);
+	overflow: hidden;
+	text-align: left;
+
+
 }
 
 #fbsection2 {
 	background-image: url(../images/2.jpg);
+	text-align: right;
 }
 
 #fbsection3 {
 	background-image: url(../images/3.jpg);
+	font-size: 20px;
+	text-align: right;
+
 }
 
 #fbsection4 {
 	background-image: url(../images/4.jpg);
+	font-size: 20px;
+	text-align: left;
+
 }
 
 #fbsection5 {
 	background-image: url(../images/5.jpg);
+	font-size: 20px;
+	text-align: center;
 }
 
 #fbsection6 {
 	background-image: url(../images/6.jpg);
+	font-size: 20px;
+	text-align: right;
+
 }
