@@ -1,2 +1,3 @@
-# ECV-D3-PROJET-05
-Site sur le café
+Created by Codrops
+
+Please read more about our license here: http://tympanus.net/codrops/licensing/ 
